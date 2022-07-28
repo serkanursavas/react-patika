@@ -1,0 +1,23 @@
+{
+  "name": "react-patika",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serkanursavas/react-patika.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanursavas/react-patika/issues"
+  },
+  "homepage": "https://github.com/serkanursavas/react-patika#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
